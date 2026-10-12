@@ -1,0 +1,33 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Áo thun basic",
+            "price": 149000,
+            "description": "Áo thun cotton form cơ bản, dễ mặc hằng ngày.",
+            "image": "https://picsum.photos/seed/shirt/600/600"
+        },
+        {
+            "id": 2,
+            "name": "Túi đeo chéo",
+            "price": 219000,
+            "description": "Túi đeo chéo nhỏ gọn, phù hợp đi học và đi chơi.",
+            "image": "https://picsum.photos/seed/bag/600/600"
+        },
+        {
+            "id": 3,
+            "name": "Giày sneaker",
+            "price": 459000,
+            "description": "Sneaker phong cách tối giản, đế nhẹ và dễ phối đồ.",
+            "image": "https://picsum.photos/seed/shoes/600/600"
+        },
+        {
+            "id": 4,
+            "name": "Mũ lưỡi trai",
+            "price": 99000,
+            "description": "Mũ lưỡi trai thiết kế đơn giản, phù hợp nhiều phong cách.",
+            "image": "https://picsum.photos/seed/cap/600/600"
+        }
+    ],
+    "orders": []
+}
